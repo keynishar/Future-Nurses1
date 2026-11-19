@@ -1,0 +1,4 @@
+month,requested,capacity_override,ad_cost
+2027-01,80,60,0
+2027-02,88,60,100
+2027-03,72,45,0
